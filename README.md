@@ -18,7 +18,7 @@ Sadly this had to be removed for the public release.
 *CREDITS*
 Christopher Baker, Parker Chaffin, Brody Wilson, Bryan CaudilloLeetien, Brian Ahuett
 
-*SPECIAL THANKS TO*
+*SPECIAL THANKS*
 Donavan Fanella, Keith Arcega, Jeffrey Yee
 
 ![MonkeyBusiness](https://github.com/user-attachments/assets/94427800-9bea-4f56-a414-72d3aabfe8f3)
