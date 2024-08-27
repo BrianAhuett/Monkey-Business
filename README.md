@@ -20,3 +20,5 @@ Christopher Baker, Parker Chaffin, Brody Wilson, Bryan CaudilloLeetien, Brian Ah
 
 *SPECIAL THANKS TO*
 Donavan Fanella, Keith Arcega, Jeffrey Yee
+
+![MonkeyBusiness](https://github.com/user-attachments/assets/94427800-9bea-4f56-a414-72d3aabfe8f3)
