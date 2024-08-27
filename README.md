@@ -5,7 +5,7 @@ Thank you for your interest in our game Monkey Business! This game was the resul
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 *GENERAL TIPS*
-1. At the start of the game, press CTRL and WASD to get unstuck. We don't know why the player gets stuck at the very beginning.
+1. At the start of the game, the player sometimes gets stuck. Press the CTRL and WASD keys to fix this.
 2. Test out the grapple hook in the first level! Move around while grappled onto a object to get a feel for the mechanics.
 3. You can run on vertical walls when holding CTRL! 
 4. Explore the whole level to find secrets.
